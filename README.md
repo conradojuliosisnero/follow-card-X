@@ -12,13 +12,13 @@ Este es un clon básico de Twitter desarrollado con [Vite](https://vitejs.dev/) 
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/twitter-clone.git
+   git clone https://github.com/conradojuliosisnero/follow-card-X.git
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd twitter-clone
+   cd follow-card-X
    ```
 
 3. Instala las dependencias:
